@@ -5,7 +5,7 @@ Every weekly notebook and your final project live here.
 
 ## 1. Set up your pair repository (once, in week 2)
 
-1. One partner opens the assignment link from Online Campus and creates the team, named after your pair: `Ana-Ben`.
+1. One partner opens the assignment link from Microsoft Teams and creates the team in Github, named after your pair: `Ana-Ben`.
 2. The second partner opens the same link and joins that team.
 3. You now have a private repository. Only you, your partner and the lecturer can see it.
 
